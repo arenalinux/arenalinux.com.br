@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Arena Linux</title>
+    <link>http://www.arenalinux.com.br/post/</link>
+    <description>Recent content in Posts on Arena Linux</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.arenalinux.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Os primeiros passos para uma carreira DevOps</title>
+      <link>http://www.arenalinux.com.br/blog/2020/01/05/os-primeiros-passos-para-uma-carreira-devops/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arenalinux.com.br/blog/2020/01/05/os-primeiros-passos-para-uma-carreira-devops/</guid>
+      <description>Hello world!</description>
+    </item>
+    
+  </channel>
+</rss>

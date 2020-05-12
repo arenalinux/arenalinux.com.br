@@ -1,0 +1,39 @@
+baseURL = "http://www.arenalinux.com.br/"
+languageCode = "en-us"
+title = "Arena Linux"
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 10
+
+[author]
+    name = "Arena Linux"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/content/post/:year/:month/:day/:title/"
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    tag = "tags"
+    category = "categories"
+
+# Sidebar social links, these must be full URLs.
+[params]
+    github = "https://github.com/arenalinux/"
+    linkedin = "https://www.linkedin.com/in/fernandesallan/"
+
+[menu]
+    # Shown in the side menu.
+    [[menu.main]]
+      name = "Home"
+      pre = "<i class='fa fa-home fa-fw'></i>"
+      weight = 1
+      identifier = "home"
+      url = "/"
+    [[menu.main]]
+      name = "About"
+      pre = "<i class='fa fa-user fa-fw'></i>"
+      weight = 3
+      identifier = "about"
+      url = "/about/"
